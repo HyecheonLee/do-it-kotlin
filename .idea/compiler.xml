@@ -16,6 +16,8 @@
       <module name="chapter07.test" target="1.8" />
       <module name="chapter08.main" target="1.8" />
       <module name="chapter08.test" target="1.8" />
+      <module name="chapter09.main" target="1.8" />
+      <module name="chapter09.test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
